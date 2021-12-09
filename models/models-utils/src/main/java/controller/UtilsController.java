@@ -17,4 +17,10 @@ public class UtilsController {
     public String getInfo(){
         return "离家出走了2";
     }
+
+
+    @GetMapping("/other")
+    public void addFunction(){
+        System.out.println("嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻");
+    }
 }
