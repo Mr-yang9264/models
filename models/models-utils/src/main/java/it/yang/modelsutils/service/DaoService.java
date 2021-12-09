@@ -13,7 +13,7 @@ public class DaoService {
 
     public User getUser(){
         User user = new User();
-        user.setName("小赵1");
+        user.setName("小赵2");
         user.setAge(22);
         return user;
     }
