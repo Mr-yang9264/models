@@ -15,6 +15,6 @@ public class UtilsController {
 
     @GetMapping("/get")
     public String getInfo(){
-        return "离家出走了";
+        return "离家出走了2";
     }
 }
