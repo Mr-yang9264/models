@@ -23,5 +23,6 @@ public class UtilsController {
     public void addFunction(){
         System.out.println("是水水水水水水水水水水水水水水");
         System.out.println("嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻");
+        System.out.println("哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈");
     }
 }
