@@ -22,6 +22,6 @@ public class UtilsController {
     @GetMapping("/other")
     public void addFunction(){
         System.out.println("是水水水水水水水水水水水水水水");
-        System.out.println("哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈");
+        System.out.println("酷酷酷酷酷酷酷酷酷哈哈哈哈哈哈哈");
     }
 }
